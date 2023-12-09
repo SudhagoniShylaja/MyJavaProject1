@@ -5,3 +5,4 @@ public class Calc {
 		return num*num;
 	}
 }
+
